@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Camiseta de G2 Esports",
+    "description": "Camiseta de League of Legends 2024",
+    "price": 62,
+    "thumbnail": "ruta/Camiseta-G2-01.jpg",
+    "code": "G2-001",
+    "stock": 4,
+    "id": 1
+  },
+  {
+    "title": "Camiseta de Fnatic",
+    "description": "Camiseta de League of Legends 2024",
+    "price": 62,
+    "thumbnail": "ruta/Camiseta-Fnatic-01.jpg",
+    "code": "FNC-001",
+    "stock": 3,
+    "id": 2
+  },
+  {
+    "title": "Camiseta de G2 Esports ",
+    "description": "Camiseta de Csgo 2024",
+    "price": 45,
+    "thumbnail": "ruta/Camiseta-G2-13.jpg",
+    "code": "G2-101",
+    "stock": 12,
+    "id": 3
+  },
+  {
+    "title": "Camiseta de G2 Esports",
+    "description": "Camiseta de Valorant 2023",
+    "price": 34,
+    "thumbnail": "ruta/Camiseta-G2-23.jpg",
+    "code": "G2-301",
+    "stock": 1,
+    "id": 4
+  }
+]
+    "id": 4
+  }
+]
